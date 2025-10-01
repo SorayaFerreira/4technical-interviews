@@ -7,4 +7,14 @@
  2. Você precisa aprender os padrões fundamentais de resolução de problemas.
  3. Se você demorar mais de 30 minutos (em flow) e não conseguir resolver, busque pela solução.
  4. Foque nos problemas de nível médio.
- */
+
+*/
+
+let A: number = parseInt(prompt("")!);
+let B: number = parseInt(prompt("")!);
+
+const X = A + B;
+
+console.log(`X = ${X}`);
+
+// ----------------------------------------------------------------
