@@ -10,7 +10,7 @@ My main goal here is to practice implementing algorithms and data structures. To
 3. If you take more than 30 minutes (in flow) and can't solve it, look for the solution.
 4. Focus on medium-level problems.
 
-### List of topics
+## List of topics
 1. String
 2. Two Pointers
 3. Sliding Window
@@ -27,3 +27,8 @@ My main goal here is to practice implementing algorithms and data structures. To
 14. Stack/Queue
 15. Priority Queue
 16. Dynamic Programming
+
+<details>
+<summary><b>Info ℹ️</b></summary>
+In the commits, I am counting the days on which I managed to solve a challenge.
+</details>
